@@ -27,6 +27,7 @@ int game()
       cout<<"Bad guess, Try again by increasing the number ..\n";
       else 
        cout<<"Bad guess, Try again by decreasing the number .."<<endl;
+    }
   }
   cout<<"Congrats .. You found the number\n";
   cout<<"The number is : "<<randomnumber<<"\n";
